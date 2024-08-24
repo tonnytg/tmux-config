@@ -1,3 +1,3 @@
 # tmux config
 
-Command tmux to open many sheels
+Command tmux to open manys Shell
